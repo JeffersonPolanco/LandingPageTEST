@@ -27,7 +27,7 @@ body {
   }
   
   #hero {
-    background-image: url('/images/ImagenDeFondoSaludMental.jpg');
+    background-image: url('/ImagenDeFondoSaludMental.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
